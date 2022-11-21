@@ -51,7 +51,7 @@ export class news extends Component {
     }
     async componentDidMount() {
         this.update()
-        this.setState({ page: this.state.page + 1, })
+        this.setState({ page:this.state.page + 1, })
     }
     fetchMoreData = async () => {
         this.setState({ page: this.state.page + 1, })
