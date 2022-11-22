@@ -73,7 +73,7 @@ export class news extends Component {
         return (
             <div className='container-fluid'>
                 
-                <h1 className="text-center">Top Headlines From {this.capitalizeFirstLetter(this.props.category)} </h1>
+                <h1 className="text-center my-4">Top Headlines From {this.capitalizeFirstLetter(this.props.category)} </h1>
              
                 <InfiniteScroll
                     dataLength={this.state.articles.length}
