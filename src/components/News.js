@@ -30,7 +30,7 @@ export class news extends Component {
             page: 1,
             totalpage: 0
         }
-        document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsMonkey`;
+        document.title = `${this.capitalizeFirstLetter(this.props.category)} - NewsArc`;
     }
     spinner = () => {
         <div className="spinner-border" role="status">
