@@ -1,6 +1,14 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+The purpose of the project is to develop an application which will display news articles .
+User can browse news articles and videos through various categories. 
+The app will enable user to view news details, images, and video.
+Users can also bookmark any news article/video for future use.
+
+
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/65105427/208458821-ad3aab7b-3a30-4e95-8fb1-8ad87da0f1cb.png">
+
 
 ## Available Scripts
 
@@ -68,3 +76,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
